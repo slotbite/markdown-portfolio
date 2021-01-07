@@ -1,1 +1,7 @@
-Replace this with your name, and include a header.
+# Cristián Andres Vargas Acevedo
+
+### Ing. E. Informática
+### Developer at Valparaiso
+
+### Apacionado por Big Data & DataViz
+
